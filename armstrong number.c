@@ -18,5 +18,6 @@ int main()
    	printf(" this is not an armstrong number");
    	return 0;
    	}
-	
+	// n is quaficaint
+           r is reminder
 
